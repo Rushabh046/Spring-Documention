@@ -1,0 +1,80 @@
+Spring : Spring Genrally the combination of 20 Modules it is use of JavaEE , it is basically work on MVC
+          M (Modle)     👉 Model is genrally the logcal part means the data represtion [business logic]
+          V (View)      👉 View Means that which data should get to the client 
+          C (Controller)👉 Controller is used for responsible for controlling the way that a user interacts [control the flow of data]
+
+
+
+IMP :: Word Meaning 
+
+"A" Letter
+Annotation 👉 it provides the data of data (metadata).
+Actuator 👉 It use in HTTP endpoint to expose operational information helps us to monitior and managae Spring boot.
+Autowireing 👉 It is used to inject the object dependency implicitly , It internally uses setter or constructor injection. Autowiring can't be used to inject primitive and string values. 
+Artifact Id : is the project name .
+
+
+"B" Letter
+Boilerplate code 👉 it is frame for project we dont use this techenqiue then we have to build the project from sratch .
+Beans 👉 The objects that form the backbone of your application and that are managed by the Spring IoC container are called beans.
+
+"C" Letter
+CLI 👉 (Command Line Interface) This helps to run and test the spring boot from command prompt.
+Container 👉 it is used to genterate the beans for spring boot.
+Configruation 👉 indiaction of defination in spring boot .
+
+"D" Letter
+DI (Dependency Injection) 👉 It is used to inject one object to another object  
+Docker 👉 it is software used to devlope the application fast with integartion and testing with deploying
+
+"G" Letter 
+Group ID 👉 Used for indentfing the project diiferent to identitfy
+get method 👉 it is used for acessing the object
+
+"I" Letter
+Injection 👉 is used to find the beans in the spring boot and it is type of approach.
+Integration 👉 means here the connection between the publisher and subscriber endpoint .
+Initializr 👉 generats the HTML5 in 15s templates . 
+IoC 👉 (Inversion of control) it is used for creating objects , managing object , configuration , etc.
+
+"J" Letter
+JPA 👉 Helps us to mapping the obejct relation and function (it is implemented only by hibernate).
+JSP(Java Server Page) 👉 It is the framework to represent the data
+
+"L" Letter
+Lazy instantiation 👉 the bean will only be created, and its dependencies injected, once they're needed.
+
+"M" Letter
+Maven 👉 is used in java manageing the project of the desinging to reduce the time to build that (Provides the JAR = {it is ZIP file used in task} ).
+MVC (Model View Control) 👉 Model == Database , View == Presenation Layer ,  Controller == Interface between the  
+
+"P" Letter
+POJO 👉 It is the plain old java object .
+Paging 👉 the act of loading one page of items after another from a database, in order to preserve resources. This is what most of this article is about.
+Pagination 👉 the UI element that provides a sequence of page numbers to let the user choose which page to load next.
+
+"R" Letter
+Rest API 👉 is used to recive the HTTP from client as per requreriment and dose whatever requied by client 
+             , one or more URL endpoints with a domain, port, path, and/or query string — for example, https://mydomain/user/123?format=json. 
+RAR 👉 (Roshal Archive File)
+RestENDPOINT 👉 It allows you to create REST APIs with minimal configurations .
+
+"S" Letter
+Starter Project wizard 👉 it is used to start the project of spring boot.		
+STS (Spring Tool Suite) 👉 it is used to deveploy the spring type of enterprise application .
+Setter 👉 is used for modifiying the object 
+Servelet 👉 It is used to handele the HTTPS request / generate the url from user and server. 
+
+
+"V" Letter 
+Velocity 👉 It is the framework to represent the data
+
+"W" Letter
+WAR / JAR 👉 (Web Application Resource File) / (Java Archive File) .
+WebSocket 👉 is used for real time response between client and server .
+
+"X" Letter
+XML file is used for  to override existing URL mappings or to define new mappings to customize Management Center objects.
+
+		
+❤️ HTTP has main 4 function (Get , Put , Post , Delete) 
