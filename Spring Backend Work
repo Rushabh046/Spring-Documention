@@ -1,0 +1,6 @@
+1. First Question why we use spring ? why not other ?
+=> In java Spring used most becoz MVC technique / DI / Ioc that makes java appliaction esay
+
+2. Another Question what is MVC ? DI ? Ioc ?
+=> MVC is Model View Controller , Model used for business logic [data reprsetion] , View used for how much data should client get it , Controller used for flow of data
+   DI stands Dependence Injection is basically when bean/object is craeted then it is injected in main applaiction 
