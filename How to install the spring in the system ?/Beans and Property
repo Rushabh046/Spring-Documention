@@ -1,0 +1,20 @@
+1. First check java version on cmd   "java -version"  if it is updated then processed on second step ,
+   else download the new updated java version by this link . 👉 https://www.oracle.com/in/java/technologies/downloads/
+
+2. To work with spring framework download the ecplise through this webiste. 
+   👉 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe&mirror_id=105
+
+3. After completion of download of ecplise then download the Spring tool suite 4 from this webiste. 👉 https://spring.io/tools
+
+4. After all this done open the ecplise select the option of    " Ecplise IDLE for Java EE Developer ".   
+   🔴 Note (workspace luncher): Set all path of installisation as default no changes , if you want to change the path then set path wehere all your things at same place.  
+
+5. In the ecplise the first left most corner name as "File" click on that 😏 select "New" 😏 Select "Maven Project" 😏 Go on next 😏 then select Catalog as "Internal"
+   😏 then in filter select "mave-archetype-quickstart as 1.1" , select next 😏 type Group Id : com.springcore  to identify the project different , Artifact Id : as 
+   the project name  (example= Spring_Application) , version as "0.0.1 SNAPSHOT" & package name as "com.Spring_Appliaction" and click on finish .
+   
+6. This will take time and note this that you have good internet connection to download all the jar / war files in maven system.
+
+The first Project or code will be get in this Spring -Documention 
+
+Happy Coding !
